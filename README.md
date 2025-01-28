@@ -1,39 +1,61 @@
 <h1 align="center">Hi there, I'm MuonNghiCode! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=16C60C&center=true&vCenter=true&width=435&lines=Front-End+Developer;React%2C+TypeScript+Enthusiast;Building+Responsive+Websites;Passionate+about+UI%2FUX+Design" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Front-End+Developer;React%2C+TypeScript+Enthusiast;Crafting+Responsive+Websites;Passionate+about+UI%2FUX+Design" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack:
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🌟 About Me:
+- 🌐 I’m a passionate **Front-End Developer** with expertise in:
+  - React, TypeScript, JavaScript, HTML, CSS, SCSS.
+  - A bit of Figma for UI/UX design.
+- 🚀 I love crafting beautiful and responsive user experiences.
+- 🎯 My goal: To become a **full-stack developer** with strong front-end expertise.
 
 ---
 
-### ✨ Projects:
+### 🛠️ Tech Stack:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,sass,figma" alt="Tech Stack" />
+</div>
+
+---
+
+### 📬 Connect with Me:
+<div align="center">
+  <a href="mailto:minhquanpm1610@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.facebook.com/minhqquan.pham/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/_minhqquan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/quan-code1610/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
+---
+
+### 🏆 GitHub Activities:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuonNghiCode&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuonNghiCode&theme=radical" alt="GitHub Streak Stats" />
+  <br />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MuonNghiCode&theme=rogue&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+### ✨ Highlighted Projects:
 - **Portfolio Website**: [Demo](#) | [Code](#)
 - **React E-commerce App**: [Demo](#) | [Code](#)
 - **UI/UX Design Concepts**: [Figma Designs](#)
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuonNghiCode&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 🎨 Custom Animations:
+<div align="center">
+  <img src="https://assets10.lottiefiles.com/packages/lf20_u4yrau.json" width="300" alt="Cool Animation">
+</div>
 
 ---
 
-### 🎨 Fun Animations:
-- You can add an SVG animation using [LottieFiles](https://lottiefiles.com/) or custom animations created in Figma.
-- Example animation: 
-<p align="center">
-  <img src="https://assets10.lottiefiles.com/packages/lf20_oGlWy5.json" width="300" />
-</p>
+### ⚡ Fun Fact:
+> *"Code is like humor. When you have to explain it, it’s bad."*  
