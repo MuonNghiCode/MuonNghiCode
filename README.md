@@ -1,47 +1,39 @@
-<h2 align="left">Hi 👋! My name is Quân</h2>
+<h1 align="center">Hi there, I'm MuonNghiCode! 👋</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=16C60C&center=true&vCenter=true&width=435&lines=Front-End+Developer;React%2C+TypeScript+Enthusiast;Building+Responsive+Websites;Passionate+about+UI%2FUX+Design" alt="Typing Animation" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuonNghiCode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuonNghiCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🛠️ Tech Stack:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+---
 
-###
+### ✨ Projects:
+- **Portfolio Website**: [Demo](#) | [Code](#)
+- **React E-commerce App**: [Demo](#) | [Code](#)
+- **UI/UX Design Concepts**: [Figma Designs](#)
 
-<div align="left">
-  <a href="https://www.instagram.com/_minhqquan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="minhquanpm1610@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/quan-code1610/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/minhqquan.pham/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
+---
 
-###
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuonNghiCode&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/MuonNghiCode/MuonNghiCode/output/snake.svg" alt="Snake animation" />
-
-###
+### 🎨 Fun Animations:
+- You can add an SVG animation using [LottieFiles](https://lottiefiles.com/) or custom animations created in Figma.
+- Example animation: 
+<p align="center">
+  <img src="https://assets10.lottiefiles.com/packages/lf20_oGlWy5.json" width="300" />
+</p>
