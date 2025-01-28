@@ -42,14 +42,6 @@
 
 ---
 
-### 🌟 Activity Highlight:
-<div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Coding Animation">
-  <h3 align="center">"Always be creative and never stop learning!"</h3>
-</div>
-
----
-
 ### ✨ Highlighted Projects:
 - **Portfolio Website**: [Demo](#) | [Code](#)
 - **React E-commerce App**: [Demo](#) | [Code](#)
@@ -57,7 +49,6 @@
 
 ---
 
-### 🎨 Custom Animations:
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Cool Animation">
 </div>
