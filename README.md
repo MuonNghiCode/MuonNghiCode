@@ -34,17 +34,16 @@
 ---
 
 ### 🏆 GitHub Activities:
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=MuonNghiCode&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400px" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuonNghiCode&theme=radical" alt="GitHub Streak Stats" width="400px" />
     </td>
   </tr>
 </table>
-
 
 ---
 
