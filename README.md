@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm MuonNghiCode! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Front-End+Developer;React%2C+TypeScript+Enthusiast;Crafting+Responsive+Websites;I+Want+To+Quit!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Front-End+Developer;React%2C+TypeScript+Enthusiast;Crafting+Responsive+Websites;T%C3%B4i+mu%E1%BB%91n+ngh%E1%BB%89+code!" alt="Typing Animation" />
 </p>
 
 ---
@@ -12,6 +12,7 @@
   - A bit of Figma for UI/UX design.
 - 🚀 I love crafting beautiful and responsive user experiences.
 - 🎯 My goal: To become a **full-stack developer** with strong front-end expertise.
+- 💡 Slogan: **"Tôi muốn nghỉ code!"**
 
 ---
 
@@ -37,8 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MuonNghiCode&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuonNghiCode&theme=radical" alt="GitHub Streak Stats" />
-  <br />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MuonNghiCode&theme=rogue&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -52,10 +51,10 @@
 
 ### 🎨 Custom Animations:
 <div align="center">
-  <img src="https://assets10.lottiefiles.com/packages/lf20_u4yrau.json" width="300" alt="Cool Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Cool Animation">
 </div>
 
 ---
 
 ### ⚡ Fun Fact:
-> **"I want to quit coding!" ** – But I won't stop until I make a great product!
+> **"Tôi muốn nghỉ code!"** – Nhưng tôi sẽ không dừng lại cho đến khi làm được sản phẩm tuyệt vời!
