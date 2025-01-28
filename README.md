@@ -42,17 +42,11 @@
 
 ---
 
-### 📅 GitHub Contributions:
-<p align="center">
-  <img src="https://github-contributions.now.sh/user/MuonNghiCode?theme=dark" alt="GitHub Contributions" />
-</p>
-
----
-
-### 📈 GitHub Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuonNghiCode&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+### 🌟 Activity Highlight:
+<div align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Coding Animation">
+  <h3 align="center">"Always be creative and never stop learning!"</h3>
+</div>
 
 ---
 
