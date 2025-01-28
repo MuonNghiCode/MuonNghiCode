@@ -34,10 +34,17 @@
 ---
 
 ### 🏆 GitHub Activities:
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuonNghiCode&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="max-width: 48%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuonNghiCode&theme=radical" alt="GitHub Streak Stats" style="max-width: 48%;" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MuonNghiCode&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400px" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuonNghiCode&theme=radical" alt="GitHub Streak Stats" width="400px" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
