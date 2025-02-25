@@ -43,7 +43,13 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuonNghiCode&theme=radical" alt="GitHub Streak Stats" width="400px" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuonNghiCode&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" width="400px" />
+    </td>
+  </tr>
 </table>
+
 
 ---
 
