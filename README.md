@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,sass,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,sass,tailwind,figma" alt="Tech Stack" />
 </div>
 
 ---
