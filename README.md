@@ -55,7 +55,7 @@
 
 ### ✨ Highlighted Projects:
 - **Portfolio Website**: [Demo](#) | [Code](#)
-- **React E-commerce App**: [Demo](#) | [Code](#)
+- **React E-commerce App**: [Demo]([#](https://coway-sigma.vercel.app/)) | [Code]([#](https://github.com/MuonNghiCode/coway))
 - **UI/UX Design Concepts**: [Figma Designs](#)
 
 ---
